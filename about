@@ -1,0 +1,2 @@
+This scrpit can scrape first 1000 films' 
+('Movie Name', 'Movie Year', 'Movie Content URL', 'Movie Image URL', 'Movie Discription','Directors', 'Stars') from IMDB website
